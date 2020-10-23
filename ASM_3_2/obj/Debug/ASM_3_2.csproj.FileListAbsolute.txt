@@ -1,0 +1,14 @@
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\bin\Debug\ASM_3_2.exe.config
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\bin\Debug\ASM_3_2.exe
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\bin\Debug\ASM_3_2.pdb
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\bin\Debug\ProductLibrary.dll
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\bin\Debug\ProductLibrary.pdb
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.csprojAssemblyReference.cache
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.frmMain.resources
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.Properties.Resources.resources
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.csproj.GenerateResource.cache
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.csproj.CoreCompileInputs.cache
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.csproj.CopyComplete
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.exe
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.pdb
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ASM_3_2\obj\Debug\ASM_3_2.frmPopup.resources

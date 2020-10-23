@@ -1,0 +1,6 @@
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\hoctap\CN5\PRN292\projects\ASM_3_2\ProductLibrary\obj\Debug\ProductLibrary.pdb
